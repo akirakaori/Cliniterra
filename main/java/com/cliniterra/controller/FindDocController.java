@@ -12,7 +12,7 @@ import com.cliniterra.model.DoctorModel;
 import com.cliniterra.service.FindDocService;
 
 /**
- * @author Aayush Shrestha
+ * @author Ashika Kambang
  */
 /**
  * Servlet implementation class FindDocController

@@ -8,7 +8,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author Aayush Shrestha
+ * @author Ashika Kambang
  */
 /**
  * Servlet implementation class HomeController
@@ -16,7 +16,7 @@ import java.io.IOException;
 @WebServlet(asyncSupported = true, urlPatterns = { "/home","/" })
 
 /**
- * @author Aayush Shrestha 23047544
+ * @author Ashika Kambang 23047544
  */
 public class HomeController extends HttpServlet {
 	private static final long serialVersionUID = 1L;

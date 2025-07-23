@@ -1,7 +1,7 @@
 package com.cliniterra.model;
 
 /**
- * @author Seer Pant
+ * @author Ashika Kambang
  */
 import java.time.LocalDate;
 

@@ -16,7 +16,7 @@ public class AboutUsController extends HttpServlet {
        
 
 /**
- * @author Aayush Shrestha
+ * @author Ashika Kambang
  */
     public AboutUsController() {
         super();

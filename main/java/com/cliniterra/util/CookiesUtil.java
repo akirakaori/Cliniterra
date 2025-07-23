@@ -1,6 +1,6 @@
 package com.cliniterra.util;
 /**
- * @author Aayush Shrestha
+ * @author Asthika Kambang 
  */
 import java.util.Arrays;
 

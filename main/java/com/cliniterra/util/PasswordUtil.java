@@ -1,6 +1,6 @@
 package com.cliniterra.util;
 /**
- * @author Seer Pant
+ * @author Ashika Kambang 
  */
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets; 

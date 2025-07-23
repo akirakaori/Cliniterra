@@ -1,7 +1,7 @@
 package com.cliniterra.controller;
 
 /**
- * @author Aayush Shrestha
+ * @author Ashika Kambang
  */
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.MultipartConfig;
@@ -21,7 +21,7 @@ import com.cliniterra.util.PasswordUtil;
 import com.cliniterra.util.ValidationUtil;
 
 /**
- * @author Aayush Shrestha
+ * @author Ashika Kambang
  */
 /**
  * Servlet implementation class RegisterController

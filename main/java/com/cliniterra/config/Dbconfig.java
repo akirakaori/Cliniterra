@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
- * @author Aayush Shrestha
+ * @author Ashika Kambang
  */
 public class Dbconfig {
 	private static final String DB_NAME = "appointment_management";

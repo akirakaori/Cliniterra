@@ -1,6 +1,6 @@
 package com.cliniterra.util;
 /**
- * @author Aayush Shrestha
+ * @author Ashika Kambang
  */
 import java.io.File;
 import java.io.IOException;

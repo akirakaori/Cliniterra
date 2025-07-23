@@ -1,6 +1,6 @@
 package com.cliniterra.controller;
 /**
- * @author Aayush Shrestha
+ * @author Ashika Kambang
  */
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

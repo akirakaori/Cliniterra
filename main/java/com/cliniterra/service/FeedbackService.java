@@ -1,6 +1,6 @@
 package com.cliniterra.service;
 /**
- * @author Aayush Shrestha
+ * @author Ashika Kambang
  */
 import com.cliniterra.config.Dbconfig;
 import com.cliniterra.model.FeedbackModel;

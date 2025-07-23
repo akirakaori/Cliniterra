@@ -1,7 +1,7 @@
 package com.cliniterra.util;
 
 /**
- * @author Aayush Shrestha
+ * @author Ashika Kambang
  */
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpSession;

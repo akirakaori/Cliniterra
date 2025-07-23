@@ -1,6 +1,6 @@
 package com.cliniterra.service;
 /**
- * @author Seer Pant
+ * @author Ashika Kambang
  */
 import java.sql.Connection;
 import java.sql.Date;

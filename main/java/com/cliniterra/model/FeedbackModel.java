@@ -1,6 +1,6 @@
 package com.cliniterra.model;
 /**
- * @author Aayush Shrestha
+ * @author Ashika Kambang
  */
 import java.time.LocalDate;
 
